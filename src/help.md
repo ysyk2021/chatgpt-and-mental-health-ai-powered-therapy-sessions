@@ -17,4 +17,4 @@
 17. Chatbot therapy
 18. Next-level therapy
 19. AI and mental wellness
-20. Advanced therapy for mental health.
+20. Advanced therapy for mental health
