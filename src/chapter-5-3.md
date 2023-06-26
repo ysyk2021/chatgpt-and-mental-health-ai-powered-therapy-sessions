@@ -6,7 +6,7 @@ In this chapter, we will explore how ChatGPT can be used for AI-powered therapy 
 Development and Implementation of ChatGPT
 -----------------------------------------
 
-ChatGPT is an AI-powered chatbot developed by OpenAI, a research organization dedicated to advancing artificial intelligence in a safe and beneficial manner. It is based on the GPT-3 model, one of the most advanced NLP models available today.
+ChatGPT is an AI-powered chatbot developed by OpenAI, a research organization dedicated to advancing artificial intelligence in a safe and beneficial manner. It is based on the GPT-3.5 model, one of the most advanced NLP models available today.
 
 To develop ChatGPT, OpenAI trained the model on a large dataset of conversational data, allowing it to learn patterns in human language and generate responses that mimic human conversation. ChatGPT can engage in conversations with users on a wide variety of topics, including mental health.
 

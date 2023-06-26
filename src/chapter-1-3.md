@@ -5,7 +5,7 @@ In recent years, there has been a growing interest in the use of artificial inte
 
 Chatbots are computer programs that simulate conversation with human users. They can be programmed to understand and respond to natural language input, allowing them to interact with users in a conversational manner. This makes them a potential tool for delivering mental health services, particularly in areas where access to traditional mental health care is limited.
 
-One type of chatbot that is gaining attention in the mental health field is ChatGPT. ChatGPT is an AI-powered chatbot that uses NLP to engage in conversations with users. It was developed based on the GPT-3 model, which is one of the most advanced NLP models available today.
+One type of chatbot that is gaining attention in the mental health field is ChatGPT. ChatGPT is an AI-powered chatbot that uses NLP to engage in conversations with users. It was developed based on the GPT-3.5 model, which is one of the most advanced NLP models available today.
 
 ChatGPT has the potential to provide personalized and accessible therapy sessions to individuals with mental health conditions. It can recognize patterns in user behavior and tailor responses accordingly, providing support and guidance in a conversational manner. Additionally, ChatGPT can be available 24/7, providing continuous support to individuals who may not have access to traditional mental health services.
 
