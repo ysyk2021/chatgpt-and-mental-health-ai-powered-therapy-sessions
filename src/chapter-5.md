@@ -34,4 +34,3 @@ How ChatGPT Can be Used for AI-Powered Therapy Sessions
 
 ChatGPT can be used for AI-powered therapy sessions by providing personalized and conversational therapy sessions to individuals. It can adapt to an individual's progress over time, providing tailored support to ensure continued progress towards recovery. By providing accessible and affordable therapy sessions, ChatGPT can help to improve the accessibility and effectiveness of mental health care.
 
-In the next chapter, we will explore specific examples of how ChatGPT is being used for AI-powered therapy sessions in the mental health industry.

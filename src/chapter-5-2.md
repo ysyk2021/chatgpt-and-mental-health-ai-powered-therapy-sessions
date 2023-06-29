@@ -3,11 +3,6 @@ Features and capabilities of ChatGPT
 
 In this chapter, we will discuss the features and capabilities of ChatGPT. Understanding these features and capabilities is important for mental health professionals looking to integrate ChatGPT into their practice.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an AI-powered chatbot developed by OpenAI that can generate human-like responses to natural language inputs. It is trained on massive amounts of text data and uses machine learning algorithms to predict and generate responses.
-
 Features of ChatGPT
 -------------------
 

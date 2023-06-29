@@ -12,16 +12,6 @@ To develop ChatGPT, OpenAI trained the model on a large dataset of conversationa
 
 ChatGPT can be implemented in several ways, including as a standalone app or integrated into existing mental health platforms. Users can access ChatGPT through a web browser or mobile app and engage in conversations with the chatbot at any time.
 
-Features and Capabilities of ChatGPT
-------------------------------------
-
-ChatGPT has several features and capabilities that make it well-suited for delivering therapy sessions. These include:
-
-* Natural Language Processing: ChatGPT uses natural language processing technology to understand and respond to user input in a conversational manner.
-* Personalization: ChatGPT can recognize patterns in user behavior and tailor responses accordingly, providing personalized support and guidance.
-* Continuous Availability: ChatGPT can be available 24/7, providing continuous support to individuals who may not have access to traditional mental health services.
-* Anonymity: ChatGPT allows individuals to receive support anonymously, which can be particularly helpful for those who may feel uncomfortable seeking traditional mental health services due to stigma or other barriers.
-
 Evidence Supporting the Effectiveness of ChatGPT
 ------------------------------------------------
 

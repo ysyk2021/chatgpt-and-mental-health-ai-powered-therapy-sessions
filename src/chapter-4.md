@@ -50,4 +50,3 @@ AI and chatbots can provide cost-effective mental health care by reducing the wo
 
 AI and chatbots can reduce the stigma surrounding mental health by providing anonymous and private support. This can encourage individuals to seek help and reduce barriers to accessing care.
 
-In the next chapter, we will explore specific examples of AI and chatbots being used in mental health treatment.
