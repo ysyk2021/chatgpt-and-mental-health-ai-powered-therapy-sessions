@@ -1,5 +1,3 @@
-Explanation of Mental Health and its Importance
-=============================================================
 
 Mental health is an essential component of overall wellness, yet it is often overlooked and stigmatized. In recent years, there has been a growing recognition of the importance of mental health and the need for accessible and effective mental health care.
 

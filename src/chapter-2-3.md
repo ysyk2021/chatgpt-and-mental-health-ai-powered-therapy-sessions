@@ -1,5 +1,3 @@
-Importance of Therapy for Mental Health
-===========================================================================
 
 In this chapter, we will discuss the basics of mental health and the importance of therapy in promoting mental health.
 

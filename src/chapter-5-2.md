@@ -1,5 +1,3 @@
-Features and capabilities of ChatGPT
-======================================================================
 
 In this chapter, we will discuss the features and capabilities of ChatGPT. Understanding these features and capabilities is important for mental health professionals looking to integrate ChatGPT into their practice.
 

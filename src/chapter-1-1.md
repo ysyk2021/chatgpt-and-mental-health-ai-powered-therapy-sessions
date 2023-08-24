@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 This book, "ChatGPT and Mental Health: AI-Powered Therapy Sessions," explores the potential benefits and limitations of using AI-powered chatbots in mental health care. Specifically, we will focus on ChatGPT, an AI-powered chatbot that uses natural language processing to engage in conversations with users.
 

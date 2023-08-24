@@ -1,5 +1,3 @@
-Potential advancements in mental health treatment with ChatGPT
-=========================================================================================================================
 
 In this chapter, we will explore the potential advancements in mental health treatment with ChatGPT. As technology continues to advance, there is vast potential for ChatGPT to revolutionize the field of mental health treatment.
 

@@ -1,5 +1,3 @@
-Definition of Mental Health
-===============================================================
 
 In this chapter, we will discuss the definition of mental health and its importance in our overall well-being.
 

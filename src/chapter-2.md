@@ -1,5 +1,3 @@
-Chapter 1: Basics of Mental Health
-==================================
 
 In this chapter, we will discuss the basics of mental health, including its definition, different types of mental health disorders, and the importance of therapy for mental health.
 

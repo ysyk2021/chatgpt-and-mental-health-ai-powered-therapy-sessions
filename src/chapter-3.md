@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Mental Health Treatment
-================================================
 
 In this chapter, we will discuss the challenges that exist in mental health treatment, including the factors that can affect mental health treatment, common challenges faced by mental health professionals, and the impact of these challenges on patient outcomes.
 

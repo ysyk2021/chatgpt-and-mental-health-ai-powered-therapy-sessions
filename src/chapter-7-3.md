@@ -1,5 +1,3 @@
-Conclusion and Future Outlook
-========================================================================================
 
 In this book, we have explored the potential of using ChatGPT in AI-powered therapy sessions for mental health. As we conclude, let's take a look at the future of mental health treatment with ChatGPT.
 

@@ -1,5 +1,3 @@
-Chapter 6: Future of Mental Health Treatment with ChatGPT
-=========================================================
 
 In this chapter, we will explore the future of mental health treatment with ChatGPT. As technology continues to advance and the field of mental health evolves, there is vast potential for ChatGPT to further revolutionize mental health treatment.
 

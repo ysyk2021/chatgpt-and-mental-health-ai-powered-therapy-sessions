@@ -1,5 +1,3 @@
-Case studies of mental health professionals who have successfully implemented ChatGPT in their practice
-===================================================================================================================================================================
 
 In this chapter, we will explore case studies of mental health professionals who have successfully implemented ChatGPT in their practice. These case studies demonstrate the value that ChatGPT can bring to mental health treatment and provide best practices for integrating ChatGPT into therapy sessions.
 

@@ -1,5 +1,3 @@
-Factors Affecting Mental Health Treatment
-===========================================================================================
 
 In this chapter, we will discuss the factors that can affect mental health treatment and contribute to the challenges discussed in the previous chapter.
 

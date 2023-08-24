@@ -1,5 +1,3 @@
-How ChatGPT can be used for AI-powered therapy sessions
-=========================================================================================
 
 In this chapter, we will explore how ChatGPT can be used for AI-powered therapy sessions. We will discuss the development and implementation of ChatGPT, its features and capabilities, and the evidence supporting its effectiveness in delivering therapy sessions.
 

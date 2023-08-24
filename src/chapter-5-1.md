@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 In this chapter, we will discuss what ChatGPT is and how it works. Understanding the basics of ChatGPT is important for mental health professionals looking to integrate this technology into their practice.
 

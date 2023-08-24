@@ -1,5 +1,3 @@
-Best practices for using ChatGPT in therapy sessions
-================================================================================================================
 
 In this chapter, we will provide best practices for using ChatGPT in therapy sessions. These practices are intended to help mental health professionals effectively integrate ChatGPT into their practice and deliver high-quality mental health care to their clients.
 

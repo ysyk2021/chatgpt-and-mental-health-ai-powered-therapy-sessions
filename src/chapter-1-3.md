@@ -1,5 +1,3 @@
-The Role of ChatGPT in AI-Powered Therapy Sessions
-================================================================
 
 In recent years, there has been a growing interest in the use of artificial intelligence (AI) in mental health care. One promising application is the use of chatbots powered by natural language processing (NLP) technology to provide therapy sessions.
 

@@ -1,5 +1,3 @@
-Chapter 5: Implementing ChatGPT in Mental Health Treatment
-==========================================================
 
 In this chapter, we will discuss the steps to implement ChatGPT in mental health treatment. We will also provide best practices for using ChatGPT in therapy sessions and share case studies of mental health professionals who have successfully implemented ChatGPT in their practice.
 

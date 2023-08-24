@@ -1,5 +1,3 @@
-Different Types of Mental Health Disorders
-==============================================================================
 
 In this chapter, we will discuss the different types of mental health disorders that individuals may experience.
 

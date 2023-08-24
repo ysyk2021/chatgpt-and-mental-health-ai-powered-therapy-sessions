@@ -1,5 +1,3 @@
-Conclusion
-==========
 
 In this book, we have explored how ChatGPT-powered AI can transform the field of mental health by providing innovative and personalized therapy sessions. We have discussed the benefits of using AI in therapy, best practices for implementation, and successful case studies.
 

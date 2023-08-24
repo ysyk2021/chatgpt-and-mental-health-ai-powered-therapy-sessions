@@ -1,4 +1,3 @@
-# Introduction
 
 Mental health is a significant concern for many people around the world. According to the World Health Organization, one in four people will be affected by mental or neurological disorders at some point in their lives. Unfortunately, despite the prevalence of these conditions, access to mental health care remains limited, with long wait times and high costs acting as barriers for many people seeking help. With the advent of artificial intelligence (AI) technology, however, there may be new hope for those struggling with mental health challenges.
 

@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Mental Health
-=======================================================
 
 In this chapter, we will explore the role of AI and chatbots in mental health. We will begin with an introduction to AI and chatbots, followed by a discussion on how they can improve mental health treatment. Lastly, we will discuss the benefits of using AI and chatbots for mental health therapy.
 

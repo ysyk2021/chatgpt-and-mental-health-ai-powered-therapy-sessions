@@ -1,5 +1,3 @@
-Common Challenges Faced by Mental Health Professionals
-========================================================================================================
 
 In this chapter, we will discuss the common challenges faced by mental health professionals in treating individuals with mental health conditions.
 

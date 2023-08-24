@@ -1,5 +1,3 @@
-Impact of These Challenges on Patient Outcomes
-================================================================================================
 
 In this chapter, we will discuss the challenges that exist in mental health treatment and their impact on patient outcomes.
 
