@@ -8,3 +8,7 @@ In this book, we will explore the benefits of using AI in therapy, best practice
 By leveraging the power of ChatGPT and other AI technologies, mental health professionals can provide more accessible, effective, and personalized care for patients. Whether you are a mental health professional, patient, or simply interested in the intersection of AI and mental health, this book provides valuable insights into the future of mental health treatment.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
