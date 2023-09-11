@@ -1,5 +1,4 @@
-Chapter 4: Steps to Implement ChatGPT in Mental Health Treatment
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter outlines the steps involved in implementing ChatGPT, an AI-powered language model, in mental health treatment. These steps provide a structured approach to ensure a successful integration of ChatGPT into therapy sessions, promoting enhanced patient support and improved therapeutic outcomes.
 

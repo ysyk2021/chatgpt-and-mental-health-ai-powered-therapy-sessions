@@ -1,5 +1,4 @@
-Chapter 4: Importance of Therapy for Mental Health
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the crucial role of therapy in promoting mental health and well-being. Therapy provides a safe and supportive environment for individuals to address their mental health concerns, gain insight, develop coping strategies, and work towards personal growth.
 

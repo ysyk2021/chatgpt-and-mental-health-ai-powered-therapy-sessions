@@ -1,5 +1,4 @@
-Chapter 8: Best Practices for Using ChatGPT in Therapy Sessions
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter highlights best practices for utilizing ChatGPT, an AI-powered language model, in therapy sessions to provide effective and responsible mental health support. These guidelines aim to optimize the use of ChatGPT while ensuring ethical considerations, patient safety, and high-quality therapeutic experiences.
 

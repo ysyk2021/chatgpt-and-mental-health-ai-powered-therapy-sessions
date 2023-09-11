@@ -1,5 +1,4 @@
-Chapter 6: Case Studies of Mental Health Professionals Who Have Successfully Implemented ChatGPT in Their Practice
-==================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore case studies of mental health professionals who have successfully integrated ChatGPT, an AI-powered language model, into their therapy practice. These real-world examples demonstrate the potential benefits and outcomes that can be achieved by incorporating AI technology into mental health care.
 

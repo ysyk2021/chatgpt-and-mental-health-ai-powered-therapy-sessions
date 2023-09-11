@@ -1,5 +1,4 @@
-Chapter 3: Benefits of Using AI and Chatbots for Mental Health Therapy
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we discuss the benefits of utilizing AI and chatbots in mental health therapy sessions. These technologies offer unique advantages that can enhance accessibility, effectiveness, and overall quality of care provided to individuals seeking mental health support.
 

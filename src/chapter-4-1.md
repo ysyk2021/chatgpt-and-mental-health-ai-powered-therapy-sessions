@@ -1,5 +1,4 @@
-Chapter 2: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an introduction to AI (Artificial Intelligence) and chatbots, exploring their role in the context of mental health therapy sessions. Understanding these technologies is essential for grasping the potential benefits and considerations associated with using AI-powered chatbots like ChatGPT in therapeutic settings.
 

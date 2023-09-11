@@ -1,5 +1,4 @@
-Chapter 3: Different Types of Mental Health Disorders
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore various types of mental health disorders, providing an overview of their symptoms, causes, and potential treatment options. Understanding these disorders is essential for recognizing the signs, seeking appropriate help, and promoting effective interventions.
 

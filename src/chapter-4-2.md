@@ -1,5 +1,4 @@
-Chapter 5: How AI and Chatbots Can Improve Mental Health Treatment
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore how AI and chatbots can enhance mental health treatment by offering unique capabilities that supplement traditional therapy approaches. These technologies bring forth advancements that improve accessibility, personalization, efficiency, and overall effectiveness of mental health care.
 

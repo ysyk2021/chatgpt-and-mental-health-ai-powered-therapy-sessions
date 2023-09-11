@@ -1,5 +1,4 @@
-Chapter 2: Definition of Mental Health
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the definition and understanding of mental health. Mental health encompasses a broad range of factors that contribute to an individual's psychological and emotional well-being. Understanding the concept of mental health is essential for providing effective support and promoting overall well-being.
 
